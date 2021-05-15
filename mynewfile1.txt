@@ -1,0 +1,59 @@
+                                                                                                    #45364
+
+
+DATE:                        JULY 17, 2019
+
+SUBJECT:                     NEURALSTEM, INC. – REVERSE SPLIT
+                             OPTION SYMBOL: CUR
+                             NEW SYMBOL: CUR1
+                             DATE: 07/18/19
+
+Neuralstem, Inc. (CUR) has announced a 1-for-20 reverse stock split. As a result of the reverse stock split,
+each CUR Common Share will be converted into the right to receive 0.05 (New) Neuralstem, Inc. Common
+Shares. The reverse stock split will become effective before the market open on July 18, 2019.
+
+CONTRACT ADJUSTMENT
+
+Effective Date:              July 18, 2019
+
+Option Symbol:               CUR changes to CUR1
+
+Contract
+Multiplier:                  1
+
+Strike Divisor:              1
+
+New Multiplier:              100 (e.g., for premium or strike dollar extensions 1.00 will equal $100)
+
+New Deliverable
+Per Contract:                5 (New) Neuralstem, Inc. (CUR) Common Shares
+
+CUSIP:                       CUR (New): 64127R500
+
+PRICING
+
+The underlying price for CUR1 will be determined as follows:
+
+    CUR1 = 0.05 (CUR)
+
+DISCLAIMER
+
+This Information Memo provides an unofficial summary of the terms of corporate events affecting listed
+options or futures prepared for the convenience of market participants. OCC accepts no responsibility for
+the accuracy or completeness of the summary, particularly for information which may be relevant to
+investment decisions. Option or futures investors should independently ascertain and evaluate all
+information concerning this corporate event(s).
+,The determination to adjust options and the nature of any adjustment is made by OCC pursuant to OCC
+By-Laws, Article VI, Sections 11 and 11A. The determination to adjust futures and the nature of any
+adjustment is made by OCC pursuant to OCC By-Laws, Article XII, Sections 3, 4, or 4A, as applicable. For
+both options and futures, each adjustment decision is made on a case by case basis. Adjustment
+decisions are based on information available at the time and are subject to change as additional
+information becomes available or if there are material changes to the terms of the corporate event(s)
+occasioning the adjustment.
+
+ALL CLEARING MEMBERS ARE REQUESTED TO IMMEDIATELY ADVISE ALL BRANCH OFFICES
+AND CORRESPONDENTS ON THE ABOVE.
+
+For questions regarding this memo, call Investor Services at 1-888-678-4667 or email
+investorservices@theocc.com. Clearing Members may contact Member Services at 1-800-544-6091 or,
+within Canada, at 1-800-424-7320, or email memberservices@theocc.com.

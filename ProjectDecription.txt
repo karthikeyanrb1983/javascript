@@ -1,0 +1,34 @@
+Lab WorkSheet
+   
+   1) Admin Side
+		 
+		 DashBoard ---- 
+			It show Report Tenent(U can also all data)
+			Total Income
+			Reports
+			Report cmplac status
+			cash   Card
+			dis
+			Balance
+			
+		Emplyees 
+			It show all employee details and SubTenet Wise(Add/Remove) Option
+		
+		Roles
+			 WorkFlow Details ----->Actions(Permision) (Add/Remove)Option
+			 
+			 
+		Branches
+			
+			Tenent Wise List
+			
+			In That Tenent 
+			 Employee and WorkFlow Permision
+		 
+			
+			 
+			 
+
+
+
+		 
